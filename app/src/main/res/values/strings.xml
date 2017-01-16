@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+
+    <string-array name="data">
+        <item>Activity1</item>
+        <item>Activity2</item>
+        <item>Activity3</item>
+        <item>Activity4</item>
+        <item>Activity5</item>
+
+    </string-array>
+</resources>
